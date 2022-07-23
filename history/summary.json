@@ -52,7 +52,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-07-23": 309
+      "2022-07-23": 320
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-23": 309
+      "2022-07-23": 319
     }
   },
   {
@@ -189,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "85.50%",
-    "uptimeDay": "85.50%",
-    "uptimeWeek": "85.50%",
-    "uptimeMonth": "85.50%",
-    "uptimeYear": "85.50%",
+    "uptime": "85.98%",
+    "uptimeDay": "85.98%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "85.98%",
+    "uptimeYear": "85.98%",
     "time": 1640,
     "timeDay": 1640,
     "timeWeek": 1640,
@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
     "status": "up",
-    "uptime": "30.79%",
-    "uptimeDay": "30.79%",
-    "uptimeWeek": "30.79%",
-    "uptimeMonth": "30.79%",
-    "uptimeYear": "30.79%",
+    "uptime": "33.07%",
+    "uptimeDay": "33.07%",
+    "uptimeWeek": "33.07%",
+    "uptimeMonth": "33.07%",
+    "uptimeYear": "33.07%",
     "time": 2025,
     "timeDay": 2025,
     "timeWeek": 2025,
@@ -228,12 +228,12 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "6.32%",
-    "uptimeDay": "6.32%",
-    "uptimeWeek": "6.32%",
-    "uptimeMonth": "6.32%",
-    "uptimeYear": "6.32%",
+    "status": "down",
+    "uptime": "9.38%",
+    "uptimeDay": "9.38%",
+    "uptimeWeek": "9.38%",
+    "uptimeMonth": "9.38%",
+    "uptimeYear": "9.38%",
     "time": 663,
     "timeDay": 663,
     "timeWeek": 663,
