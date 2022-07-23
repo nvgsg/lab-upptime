@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 737,
+    "timeDay": 737,
+    "timeWeek": 737,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1140,
-    "timeWeek": 1140,
-    "timeMonth": 1140,
-    "timeYear": 1140,
+    "time": 1162,
+    "timeDay": 1162,
+    "timeWeek": 1162,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 713,
-    "timeDay": 713,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "time": 723,
+    "timeDay": 723,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-07-23": 1044
+      "2022-07-23": 1080
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 732,
-    "timeWeek": 732,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 725,
+    "timeDay": 725,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 968,
-    "timeWeek": 968,
-    "timeMonth": 968,
-    "timeYear": 968,
+    "time": 970,
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 722,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "time": 726,
+    "timeDay": 726,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -138,13 +138,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2022-07-23": 1043
+      "2022-07-23": 1080
     }
   },
   {
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 771,
-    "timeWeek": 771,
-    "timeMonth": 771,
-    "timeYear": 771,
+    "time": 764,
+    "timeDay": 764,
+    "timeWeek": 764,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 746,
-    "timeWeek": 746,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   },
   {
@@ -188,19 +188,19 @@
     "url": "https://hpc.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
-    "status": "down",
-    "uptime": "88.59%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "88.59%",
-    "time": 1546,
-    "timeDay": 1546,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
+    "status": "up",
+    "uptime": "87.40%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "87.40%",
+    "uptimeYear": "87.40%",
+    "time": 1538,
+    "timeDay": 1538,
+    "timeWeek": 1538,
+    "timeMonth": 1538,
+    "timeYear": 1538,
     "dailyMinutesDown": {
-      "2022-07-23": 118
+      "2022-07-23": 135
     }
   },
   {
@@ -209,18 +209,18 @@
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
     "status": "down",
-    "uptime": "39.60%",
-    "uptimeDay": "39.60%",
-    "uptimeWeek": "39.60%",
-    "uptimeMonth": "39.60%",
-    "uptimeYear": "39.60%",
+    "uptime": "38.26%",
+    "uptimeDay": "38.26%",
+    "uptimeWeek": "38.26%",
+    "uptimeMonth": "38.26%",
+    "uptimeYear": "38.26%",
     "time": 1409,
     "timeDay": 1409,
     "timeWeek": 1409,
     "timeMonth": 1409,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2022-07-23": 630
+      "2022-07-23": 666
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
+    "uptime": "6.91%",
+    "uptimeDay": "6.91%",
+    "uptimeWeek": "6.91%",
+    "uptimeMonth": "6.91%",
+    "uptimeYear": "6.91%",
     "time": 642,
     "timeDay": 642,
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2022-07-23": 967
+      "2022-07-23": 1004
     }
   }
 ]
