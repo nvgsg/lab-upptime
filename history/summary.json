@@ -52,7 +52,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-07-23": 139
+      "2022-07-23": 149
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-23": 139
+      "2022-07-23": 149
     }
   },
   {
@@ -189,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "67.63%",
-    "uptimeDay": "67.63%",
-    "uptimeWeek": "67.63%",
-    "uptimeMonth": "67.63%",
-    "uptimeYear": "67.63%",
+    "uptime": "69.89%",
+    "uptimeDay": "69.89%",
+    "uptimeWeek": "69.89%",
+    "uptimeMonth": "69.89%",
+    "uptimeYear": "69.89%",
     "time": 1626,
     "timeDay": 1626,
     "timeWeek": 1626,
@@ -208,19 +208,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "40.52%",
-    "uptimeDay": "40.52%",
-    "uptimeWeek": "40.52%",
-    "uptimeMonth": "40.52%",
-    "uptimeYear": "40.52%",
+    "status": "down",
+    "uptime": "44.29%",
+    "uptimeDay": "44.29%",
+    "uptimeWeek": "44.29%",
+    "uptimeMonth": "44.29%",
+    "uptimeYear": "44.29%",
     "time": 1083,
     "timeDay": 1083,
     "timeWeek": 1083,
     "timeMonth": 1083,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2022-07-23": 82
+      "2022-07-23": 83
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "14.07%",
-    "uptimeDay": "14.07%",
-    "uptimeWeek": "14.07%",
-    "uptimeMonth": "14.07%",
-    "uptimeYear": "14.07%",
+    "uptime": "13.09%",
+    "uptimeDay": "13.09%",
+    "uptimeWeek": "13.09%",
+    "uptimeMonth": "13.09%",
+    "uptimeYear": "13.09%",
     "time": 744,
     "timeDay": 744,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2022-07-23": 118
+      "2022-07-23": 128
     }
   }
 ]
