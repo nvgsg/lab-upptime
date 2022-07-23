@@ -1,31 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: nvgsg # Your GitHub organization or username, where this repository lives
+repo: lab-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Authentication System
+    url: https://auth.lab.novaglobal.com.sg
+  - name: Cluster Monitoring UI
+    url: https://monitor.lab.novaglobal.com.sg
+  - name: Cluster Monitoring Database
+    url: https://prometheus.lab.novaglobal.com.sg
+  - name: Cluster Notification System
+    url: https://alertmanager.lab.novaglobal.com.sg
+  - name: Kubernetes Platform
+    url: https://kubesphere.lab.novaglobal.com.sg
+  - name: Kubernetes Dashboard
+    url: https://dashboard.lab.novaglobal.com.sg
+  - name: Container Registry
+    url: https://harbor.lab.novaglobal.com.sg
+  - name: Container Image Verification
+    url: https://notary.lab.novaglobal.com.sg
+  - name: Documentation Hub
+    url: https://docs.lab.novaglobal.com.sg  
+  - name: Lab Catalog
+    url: https://catalog.lab.novaglobal.com.sg    
+  - name: PufferAI HPC Portal
+    url: https://hpc.lab.novaglobal.com.sg
+  - name: Kubeflow ML Platform
+    url: https://kubeflow.lab.novaglobal.com.sg
+  - name: NVIDIA AI Enterprise Hub
+    url: https://nvaie.lab.novaglobal.com.sg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: catalog.lab.novaglobal.com.sg
+  baseUrl: /lab-upptime
+  logoUrl: https://novaglobal.com.sg/wp-content/uploads/2020/02/NovaglobalFugu.png
+  name: NovaGlobal Lab System Status
+  introTitle: "NovaGlobal Lab System Status is powered by **Upptime**, an open-source uptime monitor and status page, running entirely by GitHub."
+  introMessage: This page provides **real-time** availability data of our [Lab Services](https://catalog.lab.novaglobal.com.sg).
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/nvgsg/lab-upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
