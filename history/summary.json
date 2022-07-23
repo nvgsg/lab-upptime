@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/prometheus.lab.novaglobal.com.sg",
     "slug": "cluster-monitoring-database",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 713,
     "timeDay": 713,
     "timeWeek": 713,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-07-23": 65
+      "2022-07-23": 82
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/notary.lab.novaglobal.com.sg",
     "slug": "container-image-verification",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 740,
     "timeDay": 740,
     "timeWeek": 740,
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-23": 65
+      "2022-07-23": 82
     }
   },
   {
@@ -189,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "30.27%",
-    "uptimeDay": "30.27%",
-    "uptimeWeek": "30.27%",
-    "uptimeMonth": "30.27%",
-    "uptimeYear": "30.27%",
+    "uptime": "44.69%",
+    "uptimeDay": "44.69%",
+    "uptimeWeek": "44.69%",
+    "uptimeMonth": "44.69%",
+    "uptimeYear": "44.69%",
     "time": 1602,
     "timeDay": 1602,
     "timeWeek": 1602,
@@ -208,19 +208,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
-    "status": "down",
-    "uptime": "29.56%",
-    "uptimeDay": "29.56%",
-    "uptimeWeek": "29.56%",
-    "uptimeMonth": "29.56%",
-    "uptimeYear": "29.56%",
-    "time": 1258,
-    "timeDay": 1258,
-    "timeWeek": 1258,
-    "timeMonth": 1258,
-    "timeYear": 1258,
+    "status": "up",
+    "uptime": "24.15%",
+    "uptimeDay": "24.15%",
+    "uptimeWeek": "24.15%",
+    "uptimeMonth": "24.15%",
+    "uptimeYear": "24.15%",
+    "time": 1155,
+    "timeDay": 1155,
+    "timeWeek": 1155,
+    "timeMonth": 1155,
+    "timeYear": 1155,
     "dailyMinutesDown": {
-      "2022-07-23": 44
+      "2022-07-23": 61
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "30.60%",
-    "uptimeDay": "30.60%",
-    "uptimeWeek": "30.60%",
-    "uptimeMonth": "30.60%",
-    "uptimeYear": "30.60%",
+    "uptime": "24.18%",
+    "uptimeDay": "24.18%",
+    "uptimeWeek": "24.18%",
+    "uptimeMonth": "24.18%",
+    "uptimeYear": "24.18%",
     "time": 744,
     "timeDay": 744,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2022-07-23": 44
+      "2022-07-23": 61
     }
   }
 ]
