@@ -52,7 +52,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-07-23": 208
+      "2022-07-23": 257
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-23": 208
+      "2022-07-23": 257
     }
   },
   {
@@ -189,18 +189,18 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "73.89%",
-    "uptimeDay": "73.89%",
-    "uptimeWeek": "73.89%",
-    "uptimeMonth": "73.89%",
-    "uptimeYear": "73.89%",
+    "uptime": "82.55%",
+    "uptimeDay": "82.55%",
+    "uptimeWeek": "82.55%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "82.55%",
     "time": 1640,
     "timeDay": 1640,
     "timeWeek": 1640,
     "timeMonth": 1640,
     "timeYear": 1640,
     "dailyMinutesDown": {
-      "2022-07-23": 54
+      "2022-07-23": 45
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
-    "status": "down",
-    "uptime": "40.89%",
-    "uptimeDay": "40.89%",
-    "uptimeWeek": "40.89%",
-    "uptimeMonth": "40.89%",
-    "uptimeYear": "40.89%",
-    "time": 1044,
-    "timeDay": 1044,
-    "timeWeek": 1044,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "status": "up",
+    "uptime": "33.29%",
+    "uptimeDay": "33.29%",
+    "uptimeWeek": "33.29%",
+    "uptimeMonth": "33.29%",
+    "uptimeYear": "33.29%",
+    "time": 2237,
+    "timeDay": 2237,
+    "timeWeek": 2237,
+    "timeMonth": 2237,
+    "timeYear": 2237,
     "dailyMinutesDown": {
-      "2022-07-23": 122
+      "2022-07-23": 170
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "9.37%",
-    "uptimeDay": "9.37%",
-    "uptimeWeek": "9.37%",
-    "uptimeMonth": "9.37%",
-    "uptimeYear": "9.37%",
+    "uptime": "7.56%",
+    "uptimeDay": "7.56%",
+    "uptimeWeek": "7.56%",
+    "uptimeMonth": "7.56%",
+    "uptimeYear": "7.56%",
     "time": 744,
     "timeDay": 744,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2022-07-23": 187
+      "2022-07-23": 236
     }
   }
 ]
