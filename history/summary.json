@@ -52,7 +52,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-07-23": 794
+      "2022-07-23": 823
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-23": 794
+      "2022-07-23": 823
     }
   },
   {
@@ -189,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "87.83%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "87.83%",
-    "uptimeYear": "87.83%",
+    "uptime": "88.26%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "88.26%",
+    "uptimeYear": "88.26%",
     "time": 1588,
     "timeDay": 1588,
     "timeWeek": 1588,
@@ -208,19 +208,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "34.37%",
-    "uptimeDay": "34.37%",
-    "uptimeWeek": "34.37%",
-    "uptimeMonth": "34.37%",
-    "uptimeYear": "34.37%",
+    "status": "down",
+    "uptime": "36.62%",
+    "uptimeDay": "36.62%",
+    "uptimeWeek": "36.62%",
+    "uptimeMonth": "36.62%",
+    "uptimeYear": "36.62%",
     "time": 1579,
     "timeDay": 1579,
     "timeWeek": 1579,
     "timeMonth": 1579,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2022-07-23": 520
+      "2022-07-23": 521
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "7.96%",
-    "uptimeDay": "7.96%",
-    "uptimeWeek": "7.96%",
-    "uptimeMonth": "7.96%",
-    "uptimeYear": "7.96%",
+    "uptime": "7.68%",
+    "uptimeDay": "7.68%",
+    "uptimeWeek": "7.68%",
+    "uptimeMonth": "7.68%",
+    "uptimeYear": "7.68%",
     "time": 663,
     "timeDay": 663,
     "timeWeek": 663,
     "timeMonth": 663,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-07-23": 729
+      "2022-07-23": 758
     }
   }
 ]
