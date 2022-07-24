@@ -52,7 +52,7 @@
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-07-24": 416,
+      "2022-07-24": 436,
       "2022-07-23": 1108
     }
   },
@@ -145,7 +145,7 @@
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2022-07-24": 416,
+      "2022-07-24": 436,
       "2022-07-23": 1108
     }
   },
@@ -191,18 +191,18 @@
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "87.17%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "87.17%",
-    "uptimeMonth": "87.17%",
-    "uptimeYear": "87.17%",
+    "uptime": "88.26%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "88.26%",
+    "uptimeYear": "88.26%",
     "time": 1514,
     "timeDay": 1497,
     "timeWeek": 1514,
     "timeMonth": 1514,
     "timeYear": 1514,
     "dailyMinutesDown": {
-      "2022-07-24": 59,
+      "2022-07-24": 45,
       "2022-07-23": 135
     }
   },
@@ -212,18 +212,18 @@
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
     "status": "up",
-    "uptime": "46.55%",
-    "uptimeDay": "47.73%",
-    "uptimeWeek": "46.55%",
-    "uptimeMonth": "46.55%",
-    "uptimeYear": "46.55%",
+    "uptime": "48.14%",
+    "uptimeDay": "48.68%",
+    "uptimeWeek": "48.14%",
+    "uptimeMonth": "48.14%",
+    "uptimeYear": "48.14%",
     "time": 1345,
     "timeDay": 1365,
     "timeWeek": 1345,
     "timeMonth": 1345,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2022-07-24": 126,
+      "2022-07-24": 112,
       "2022-07-23": 688
     }
   },
@@ -232,12 +232,12 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "7.61%",
-    "uptimeDay": "6.71%",
-    "uptimeWeek": "7.61%",
-    "uptimeMonth": "7.61%",
-    "uptimeYear": "7.61%",
+    "status": "down",
+    "uptime": "8.82%",
+    "uptimeDay": "8.11%",
+    "uptimeWeek": "8.82%",
+    "uptimeMonth": "8.82%",
+    "uptimeYear": "8.82%",
     "time": 651,
     "timeDay": 633,
     "timeWeek": 651,
