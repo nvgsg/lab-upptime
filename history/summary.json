@@ -52,7 +52,7 @@
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-07-25": 314,
+      "2022-07-25": 342,
       "2022-07-24": 1440,
       "2022-07-23": 1108
     }
@@ -146,7 +146,7 @@
     "timeMonth": 727,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2022-07-25": 314,
+      "2022-07-25": 342,
       "2022-07-24": 1440,
       "2022-07-23": 1108
     }
@@ -192,19 +192,19 @@
     "url": "https://hpc.lab.novaglobal.com.sg",
     "icon": "https://favicons.githubusercontent.com/hpc.lab.novaglobal.com.sg",
     "slug": "puffer-ai-hpc-portal",
-    "status": "down",
-    "uptime": "85.45%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "85.45%",
-    "uptimeYear": "85.45%",
-    "time": 1482,
-    "timeDay": 1444,
-    "timeWeek": 1482,
-    "timeMonth": 1482,
-    "timeYear": 1482,
+    "status": "up",
+    "uptime": "84.66%",
+    "uptimeDay": "80.98%",
+    "uptimeWeek": "84.66%",
+    "uptimeMonth": "84.66%",
+    "uptimeYear": "84.66%",
+    "time": 1474,
+    "timeDay": 1434,
+    "timeWeek": 1474,
+    "timeMonth": 1474,
+    "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-07-25": 1,
+      "2022-07-25": 28,
       "2022-07-24": 280,
       "2022-07-23": 135
     }
@@ -215,18 +215,18 @@
     "icon": "https://favicons.githubusercontent.com/kubeflow.lab.novaglobal.com.sg",
     "slug": "kubeflow-ml-platform",
     "status": "down",
-    "uptime": "43.54%",
+    "uptime": "43.11%",
     "uptimeDay": "39.12%",
-    "uptimeWeek": "43.54%",
-    "uptimeMonth": "43.54%",
-    "uptimeYear": "43.54%",
+    "uptimeWeek": "43.11%",
+    "uptimeMonth": "43.11%",
+    "uptimeYear": "43.11%",
     "time": 1203,
     "timeDay": 993,
     "timeWeek": 1203,
     "timeMonth": 1203,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2022-07-25": 150,
+      "2022-07-25": 178,
       "2022-07-24": 775,
       "2022-07-23": 688
     }
@@ -237,18 +237,18 @@
     "icon": "https://favicons.githubusercontent.com/nvaie.lab.novaglobal.com.sg",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "6.46%",
+    "uptime": "6.40%",
     "uptimeDay": "4.80%",
-    "uptimeWeek": "6.46%",
-    "uptimeMonth": "6.46%",
-    "uptimeYear": "6.46%",
+    "uptimeWeek": "6.40%",
+    "uptimeMonth": "6.40%",
+    "uptimeYear": "6.40%",
     "time": 628,
     "timeDay": 585,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-07-25": 314,
+      "2022-07-25": 342,
       "2022-07-24": 1330,
       "2022-07-23": 1031
     }
