@@ -1,7 +1,7 @@
 url: https://kubeflow.lab.novaglobal.com.sg
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-15T11:20:48.119Z
+status: up
+code: 200
+responseTime: 3844
+lastUpdated: 2022-10-15T14:00:31.640Z
 startTime: Sat Jul 23 2022 05:34:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
