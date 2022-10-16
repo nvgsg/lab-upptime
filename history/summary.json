@@ -80,7 +80,7 @@
     "timeMonth": 682,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2022-10-16": 1114,
+      "2022-10-16": 1138,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kubesphere.lab.novaglobal.com.sg.ico",
     "slug": "kubernetes-platform",
     "status": "down",
-    "uptime": "59.87%",
+    "uptime": "59.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.87%",
+    "uptimeYear": "59.86%",
     "time": 813,
     "timeDay": 735,
     "timeWeek": 639,
     "timeMonth": 670,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2022-10-16": 1114,
+      "2022-10-16": 1138,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -320,7 +320,7 @@
     "timeMonth": 676,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-10-16": 1114,
+      "2022-10-16": 1138,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -498,7 +498,7 @@
     "time": 1521,
     "timeDay": 1588,
     "timeWeek": 1537,
-    "timeMonth": 1525,
+    "timeMonth": 1526,
     "timeYear": 1521,
     "dailyMinutesDown": {
       "2022-10-16": 188,
@@ -527,19 +527,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "93.91%",
-    "uptimeDay": "46.24%",
-    "uptimeWeek": "52.60%",
-    "uptimeMonth": "82.86%",
-    "uptimeYear": "93.91%",
+    "status": "down",
+    "uptime": "93.93%",
+    "uptimeDay": "46.18%",
+    "uptimeWeek": "52.83%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "93.93%",
     "time": 1202,
     "timeDay": 1131,
     "timeWeek": 1110,
     "timeMonth": 1202,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2022-10-16": 581,
+      "2022-10-16": 582,
       "2022-10-15": 902,
       "2022-10-14": 370,
       "2022-10-13": 539,
@@ -550,7 +550,7 @@
       "2022-10-08": 734,
       "2022-10-07": 645,
       "2022-10-06": 403,
-      "2022-10-05": 80
+      "2022-10-05": 54
     }
   },
   {
@@ -558,12 +558,12 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "89.37%",
-    "uptimeDay": "25.18%",
-    "uptimeWeek": "25.62%",
-    "uptimeMonth": "70.11%",
-    "uptimeYear": "89.37%",
+    "status": "down",
+    "uptime": "89.44%",
+    "uptimeDay": "26.83%",
+    "uptimeWeek": "25.86%",
+    "uptimeMonth": "70.29%",
+    "uptimeYear": "89.44%",
     "time": 669,
     "timeDay": 704,
     "timeWeek": 697,
@@ -582,7 +582,7 @@
       "2022-10-07": 945,
       "2022-10-06": 950,
       "2022-10-05": 1266,
-      "2022-10-04": 156
+      "2022-10-04": 75
     }
   }
 ]
