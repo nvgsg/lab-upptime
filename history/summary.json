@@ -102,7 +102,7 @@
     "timeMonth": 1617,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-11-10": 1420,
+      "2022-11-10": 1431,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -269,7 +269,7 @@
     "timeMonth": 1610,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2022-11-10": 1420,
+      "2022-11-10": 1432,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 1929,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2022-11-10": 1420,
+      "2022-11-10": 1432,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -647,12 +647,12 @@
     "status": "up",
     "uptime": "89.03%",
     "uptimeDay": "81.59%",
-    "uptimeWeek": "92.74%",
+    "uptimeWeek": "92.82%",
     "uptimeMonth": "60.05%",
     "uptimeYear": "89.03%",
     "time": 1569,
     "timeDay": 1409,
-    "timeWeek": 1501,
+    "timeWeek": 1504,
     "timeMonth": 1685,
     "timeYear": 1569,
     "dailyMinutesDown": {
@@ -695,8 +695,8 @@
     "slug": "kubeflow-ml-platform",
     "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "45.57%",
-    "uptimeWeek": "53.46%",
+    "uptimeDay": "46.34%",
+    "uptimeWeek": "53.57%",
     "uptimeMonth": "88.78%",
     "uptimeYear": "96.92%",
     "time": 1241,
@@ -720,19 +720,19 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "93.30%",
-    "uptimeDay": "13.49%",
-    "uptimeWeek": "22.85%",
-    "uptimeMonth": "75.60%",
-    "uptimeYear": "93.30%",
+    "status": "down",
+    "uptime": "93.34%",
+    "uptimeDay": "14.23%",
+    "uptimeWeek": "22.95%",
+    "uptimeMonth": "75.73%",
+    "uptimeYear": "93.34%",
     "time": 702,
     "timeDay": 685,
     "timeWeek": 699,
     "timeMonth": 818,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-11-10": 1226,
+      "2022-11-10": 1227,
       "2022-11-09": 1079,
       "2022-11-08": 1139,
       "2022-11-07": 1124,
@@ -741,7 +741,7 @@
       "2022-11-04": 1130,
       "2022-11-03": 1135,
       "2022-11-02": 1042,
-      "2022-11-01": 755
+      "2022-11-01": 695
     }
   }
 ]
