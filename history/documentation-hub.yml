@@ -1,7 +1,7 @@
 url: https://docs.lab.novaglobal.com.sg
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2022-11-16T23:11:31.290Z
+status: down
+code: 502
+responseTime: 27826
+lastUpdated: 2022-11-17T07:37:33.697Z
 startTime: Sat Jul 23 2022 05:32:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
