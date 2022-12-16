@@ -131,7 +131,7 @@
     "timeMonth": 688,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2022-12-16": 167,
+      "2022-12-16": 178,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -346,7 +346,7 @@
     "timeMonth": 677,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2022-12-16": 168,
+      "2022-12-16": 178,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -563,7 +563,7 @@
     "timeMonth": 671,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-12-16": 168,
+      "2022-12-16": 178,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -902,19 +902,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "69.04%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "69.69%",
     "uptimeWeek": "66.34%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "98.15%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "98.17%",
     "time": 1254,
     "timeDay": 1161,
     "timeWeek": 1298,
     "timeMonth": 1322,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-12-16": 21,
+      "2022-12-16": 22,
       "2022-12-15": 438,
       "2022-12-14": 468,
       "2022-12-13": 551,
@@ -922,7 +922,7 @@
       "2022-12-11": 539,
       "2022-12-10": 602,
       "2022-12-09": 548,
-      "2022-12-08": 352
+      "2022-12-08": 300
     }
   },
   {
@@ -933,8 +933,8 @@
     "status": "down",
     "uptime": "96.84%",
     "uptimeDay": "45.41%",
-    "uptimeWeek": "34.18%",
-    "uptimeMonth": "84.86%",
+    "uptimeWeek": "34.08%",
+    "uptimeMonth": "84.83%",
     "uptimeYear": "96.84%",
     "time": 717,
     "timeDay": 717,
@@ -942,7 +942,7 @@
     "timeMonth": 774,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2022-12-16": 168,
+      "2022-12-16": 178,
       "2022-12-15": 701,
       "2022-12-14": 870,
       "2022-12-13": 1226,
