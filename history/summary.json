@@ -131,7 +131,7 @@
     "timeMonth": 696,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-12-23": 405,
+      "2022-12-23": 416,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -353,7 +353,7 @@
     "timeMonth": 685,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2022-12-23": 405,
+      "2022-12-23": 416,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -577,7 +577,7 @@
     "timeMonth": 682,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-12-23": 405,
+      "2022-12-23": 416,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -867,18 +867,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hpc.lab.novaglobal.com.sg.ico",
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
-    "uptime": "88.95%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "59.33%",
-    "uptimeYear": "88.95%",
+    "uptime": "88.94%",
+    "uptimeDay": "87.41%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "59.36%",
+    "uptimeYear": "88.94%",
     "time": 1551,
     "timeDay": 1499,
     "timeWeek": 1523,
-    "timeMonth": 1515,
+    "timeMonth": 1516,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2022-12-23": 102,
+      "2022-12-23": 92,
       "2022-12-22": 89,
       "2022-12-21": 95,
       "2022-12-20": 133,
@@ -917,7 +917,7 @@
       "2022-11-17": 993,
       "2022-11-16": 135,
       "2022-11-15": 33,
-      "2022-11-14": 106
+      "2022-11-14": 137
     }
   },
   {
@@ -925,19 +925,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "56.75%",
-    "uptimeWeek": "68.59%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "56.68%",
+    "uptimeWeek": "68.68%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "98.46%",
     "time": 1260,
-    "timeDay": 1278,
+    "timeDay": 1292,
     "timeWeek": 1320,
     "timeMonth": 1327,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2022-12-23": 202,
+      "2022-12-23": 203,
       "2022-12-22": 419,
       "2022-12-21": 332,
       "2022-12-20": 546,
@@ -945,7 +945,7 @@
       "2022-12-18": 528,
       "2022-12-17": 485,
       "2022-12-16": 401,
-      "2022-12-15": 110
+      "2022-12-15": 56
     }
   },
   {
@@ -953,26 +953,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "43.11%",
-    "uptimeWeek": "46.82%",
-    "uptimeMonth": "87.76%",
-    "uptimeYear": "97.57%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "43.75%",
+    "uptimeWeek": "48.55%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "97.65%",
     "time": 714,
     "timeDay": 671,
     "timeWeek": 691,
     "timeMonth": 743,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2022-12-23": 248,
+      "2022-12-23": 249,
       "2022-12-22": 663,
       "2022-12-21": 643,
       "2022-12-20": 924,
       "2022-12-19": 891,
       "2022-12-18": 999,
-      "2022-12-17": 984,
-      "2022-12-16": 10
+      "2022-12-17": 820
     }
   }
 ]
