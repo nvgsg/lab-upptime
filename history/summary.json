@@ -131,7 +131,7 @@
     "timeMonth": 696,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-12-23": 432,
+      "2022-12-23": 455,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -353,7 +353,7 @@
     "timeMonth": 685,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2022-12-23": 432,
+      "2022-12-23": 455,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -577,7 +577,7 @@
     "timeMonth": 682,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-12-23": 432,
+      "2022-12-23": 455,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -869,7 +869,7 @@
     "status": "up",
     "uptime": "88.94%",
     "uptimeDay": "87.41%",
-    "uptimeWeek": "93.36%",
+    "uptimeWeek": "93.48%",
     "uptimeMonth": "59.36%",
     "uptimeYear": "88.94%",
     "time": 1551,
@@ -925,19 +925,19 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "55.62%",
-    "uptimeWeek": "68.69%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "98.46%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "56.30%",
+    "uptimeWeek": "68.91%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "98.47%",
     "time": 1260,
     "timeDay": 1289,
     "timeWeek": 1320,
-    "timeMonth": 1327,
+    "timeMonth": 1316,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2022-12-23": 218,
+      "2022-12-23": 219,
       "2022-12-22": 419,
       "2022-12-21": 332,
       "2022-12-20": 546,
@@ -945,7 +945,7 @@
       "2022-12-18": 528,
       "2022-12-17": 485,
       "2022-12-16": 401,
-      "2022-12-15": 56
+      "2022-12-15": 38
     }
   },
   {
@@ -953,25 +953,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "43.80%",
-    "uptimeWeek": "48.40%",
-    "uptimeMonth": "88.13%",
-    "uptimeYear": "97.64%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "44.49%",
+    "uptimeWeek": "48.56%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "97.65%",
     "time": 714,
     "timeDay": 673,
     "timeWeek": 691,
     "timeMonth": 743,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2022-12-23": 264,
+      "2022-12-23": 265,
       "2022-12-22": 663,
       "2022-12-21": 643,
       "2022-12-20": 924,
       "2022-12-19": 891,
       "2022-12-18": 999,
-      "2022-12-17": 820
+      "2022-12-17": 803
     }
   }
 ]
