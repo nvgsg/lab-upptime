@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.lab.novaglobal.com.sg.ico",
     "slug": "cluster-monitoring-ui",
     "status": "up",
-    "uptime": "85.35%",
+    "uptime": "85.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.16%",
-    "uptimeYear": "85.35%",
+    "uptimeYear": "85.36%",
     "time": 1270,
     "timeDay": 1058,
     "timeWeek": 1156,
@@ -131,7 +131,7 @@
     "timeMonth": 695,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2022-12-24": 640,
+      "2022-12-24": 651,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -354,7 +354,7 @@
     "timeMonth": 683,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-12-24": 640,
+      "2022-12-24": 651,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -579,7 +579,7 @@
     "timeMonth": 678,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2022-12-24": 640,
+      "2022-12-24": 651,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -929,7 +929,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "77.52%",
-    "uptimeWeek": "69.17%",
+    "uptimeWeek": "69.27%",
     "uptimeMonth": "92.81%",
     "uptimeYear": "98.58%",
     "time": 1258,
@@ -953,11 +953,11 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "97.81%",
-    "uptimeDay": "53.36%",
-    "uptimeWeek": "51.65%",
-    "uptimeMonth": "88.87%",
+    "uptimeDay": "53.31%",
+    "uptimeWeek": "51.79%",
+    "uptimeMonth": "88.91%",
     "uptimeYear": "97.81%",
     "time": 713,
     "timeDay": 691,
@@ -965,13 +965,13 @@
     "timeMonth": 740,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-12-24": 308,
+      "2022-12-24": 309,
       "2022-12-23": 692,
       "2022-12-22": 663,
       "2022-12-21": 643,
       "2022-12-20": 924,
       "2022-12-19": 891,
-      "2022-12-18": 755
+      "2022-12-18": 740
     }
   }
 ]
