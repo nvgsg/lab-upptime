@@ -133,7 +133,7 @@
     "timeMonth": 683,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-01-14": 660,
+      "2023-01-14": 676,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -378,7 +378,7 @@
     "timeMonth": 684,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-01-14": 660,
+      "2023-01-14": 676,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 671,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-01-14": 660,
+      "2023-01-14": 677,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -949,13 +949,13 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "82.50%",
-    "uptimeWeek": "85.46%",
+    "uptimeWeek": "85.61%",
     "uptimeMonth": "90.48%",
     "uptimeYear": "98.35%",
     "time": 1553,
     "timeDay": 1494,
     "timeWeek": 1510,
-    "timeMonth": 1551,
+    "timeMonth": 1552,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2023-01-14": 150,
@@ -993,7 +993,7 @@
     "uptimeYear": "98.28%",
     "time": 1258,
     "timeDay": 1088,
-    "timeWeek": 1244,
+    "timeWeek": 1245,
     "timeMonth": 1272,
     "timeYear": 1258,
     "dailyMinutesDown": {
@@ -1013,26 +1013,26 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "97.58%",
-    "uptimeDay": "34.70%",
-    "uptimeWeek": "39.54%",
-    "uptimeMonth": "86.09%",
-    "uptimeYear": "97.58%",
+    "status": "down",
+    "uptime": "97.64%",
+    "uptimeDay": "34.64%",
+    "uptimeWeek": "40.87%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "97.64%",
     "time": 710,
     "timeDay": 672,
     "timeWeek": 677,
     "timeMonth": 695,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-01-14": 439,
+      "2023-01-14": 440,
       "2023-01-13": 744,
       "2023-01-12": 812,
       "2023-01-11": 1050,
       "2023-01-10": 955,
       "2023-01-09": 874,
       "2023-01-08": 772,
-      "2023-01-07": 449
+      "2023-01-07": 314
     }
   }
 ]
