@@ -133,7 +133,7 @@
     "timeMonth": 658,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-01-27": 1160,
+      "2023-01-27": 1171,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -391,7 +391,7 @@
     "timeMonth": 657,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-01-27": 1161,
+      "2023-01-27": 1171,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -652,7 +652,7 @@
     "timeMonth": 651,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2023-01-27": 1161,
+      "2023-01-27": 1171,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -920,7 +920,7 @@
     "time": 831,
     "timeDay": 731,
     "timeWeek": 648,
-    "timeMonth": 839,
+    "timeMonth": 842,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2023-01-27": 41,
@@ -994,9 +994,9 @@
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "90.42%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "87.98%",
+    "uptimeMonth": "90.40%",
     "uptimeYear": "98.45%",
     "time": 1550,
     "timeDay": 1558,
@@ -1004,7 +1004,7 @@
     "timeMonth": 1521,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2023-01-27": 79,
+      "2023-01-27": 68,
       "2023-01-26": 234,
       "2023-01-25": 164,
       "2023-01-24": 110,
@@ -1026,7 +1026,7 @@
       "2023-01-08": 93,
       "2023-01-07": 97,
       "2023-01-06": 187,
-      "2023-01-05": 119
+      "2023-01-05": 139
     }
   },
   {
@@ -1042,8 +1042,8 @@
     "uptimeYear": "98.53%",
     "time": 1250,
     "timeDay": 1195,
-    "timeWeek": 1097,
-    "timeMonth": 1228,
+    "timeWeek": 1098,
+    "timeMonth": 1227,
     "timeYear": 1250,
     "dailyMinutesDown": {
       "2023-01-27": 350,
@@ -1061,25 +1061,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "43.47%",
-    "uptimeWeek": "50.49%",
-    "uptimeMonth": "88.61%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.18%",
+    "uptimeDay": "43.40%",
+    "uptimeWeek": "51.04%",
+    "uptimeMonth": "88.73%",
+    "uptimeYear": "98.18%",
     "time": 706,
     "timeDay": 676,
     "timeWeek": 657,
     "timeMonth": 692,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-01-27": 628,
+      "2023-01-27": 629,
       "2023-01-26": 879,
       "2023-01-25": 800,
       "2023-01-24": 834,
       "2023-01-23": 874,
       "2023-01-22": 850,
-      "2023-01-21": 128
+      "2023-01-21": 71
     }
   }
 ]
