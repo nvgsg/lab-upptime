@@ -133,7 +133,7 @@
     "timeMonth": 657,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-01-29": 1121,
+      "2023-01-29": 1131,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -393,7 +393,7 @@
     "timeMonth": 655,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2023-01-29": 1121,
+      "2023-01-29": 1131,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 650,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-29": 1121,
+      "2023-01-29": 1131,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -1005,8 +1005,8 @@
     "uptimeMonth": "90.47%",
     "uptimeYear": "98.48%",
     "time": 1549,
-    "timeDay": 1525,
-    "timeWeek": 1534,
+    "timeDay": 1507,
+    "timeWeek": 1532,
     "timeMonth": 1513,
     "timeYear": 1549,
     "dailyMinutesDown": {
@@ -1044,8 +1044,8 @@
     "slug": "kubeflow-ml-platform",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "59.78%",
-    "uptimeWeek": "59.57%",
+    "uptimeDay": "60.51%",
+    "uptimeWeek": "59.68%",
     "uptimeMonth": "90.64%",
     "uptimeYear": "98.51%",
     "time": 1248,
@@ -1069,25 +1069,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "38.51%",
-    "uptimeWeek": "48.86%",
-    "uptimeMonth": "88.23%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.14%",
+    "uptimeDay": "39.19%",
+    "uptimeWeek": "49.37%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "98.14%",
     "time": 705,
     "timeDay": 650,
     "timeWeek": 658,
     "timeMonth": 690,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2023-01-29": 748,
+      "2023-01-29": 749,
       "2023-01-28": 945,
       "2023-01-27": 764,
       "2023-01-26": 879,
       "2023-01-25": 800,
       "2023-01-24": 834,
-      "2023-01-23": 186
+      "2023-01-23": 133
     }
   }
 ]
