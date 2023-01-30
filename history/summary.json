@@ -133,7 +133,7 @@
     "timeMonth": 662,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2023-01-30": 827,
+      "2023-01-30": 837,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -394,7 +394,7 @@
     "timeMonth": 660,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2023-01-30": 827,
+      "2023-01-30": 838,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -658,7 +658,7 @@
     "timeMonth": 656,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-01-30": 827,
+      "2023-01-30": 838,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -1005,9 +1005,9 @@
     "slug": "puffer-ai-hpc-portal",
     "status": "up",
     "uptime": "98.49%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "90.52%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "89.15%",
+    "uptimeMonth": "90.50%",
     "uptimeYear": "98.49%",
     "time": 1548,
     "timeDay": 1440,
@@ -1015,7 +1015,7 @@
     "timeMonth": 1511,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2023-01-30": 85,
+      "2023-01-30": 76,
       "2023-01-29": 100,
       "2023-01-28": 32,
       "2023-01-27": 68,
@@ -1039,7 +1039,7 @@
       "2023-01-09": 62,
       "2023-01-08": 93,
       "2023-01-07": 97,
-      "2023-01-06": 52
+      "2023-01-06": 73
     }
   },
   {
@@ -1047,26 +1047,26 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "57.58%",
-    "uptimeWeek": "59.89%",
-    "uptimeMonth": "90.53%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "57.51%",
+    "uptimeWeek": "59.98%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "98.53%",
     "time": 1250,
     "timeDay": 1381,
     "timeWeek": 1142,
     "timeMonth": 1227,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2023-01-30": 363,
+      "2023-01-30": 364,
       "2023-01-29": 570,
       "2023-01-28": 642,
       "2023-01-27": 459,
       "2023-01-26": 478,
       "2023-01-25": 637,
       "2023-01-24": 539,
-      "2023-01-23": 463
+      "2023-01-23": 371
     }
   },
   {
@@ -1077,8 +1077,8 @@
     "status": "down",
     "uptime": "98.17%",
     "uptimeDay": "36.66%",
-    "uptimeWeek": "50.09%",
-    "uptimeMonth": "88.52%",
+    "uptimeWeek": "49.99%",
+    "uptimeMonth": "88.49%",
     "uptimeYear": "98.17%",
     "time": 705,
     "timeDay": 642,
@@ -1086,7 +1086,7 @@
     "timeMonth": 689,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2023-01-30": 497,
+      "2023-01-30": 507,
       "2023-01-29": 977,
       "2023-01-28": 945,
       "2023-01-27": 764,
