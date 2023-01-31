@@ -133,7 +133,7 @@
     "timeMonth": 665,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2023-01-31": 1037,
+      "2023-01-31": 1050,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -395,7 +395,7 @@
     "timeMonth": 663,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2023-01-31": 1037,
+      "2023-01-31": 1050,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -660,7 +660,7 @@
     "timeMonth": 659,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2023-01-31": 1037,
+      "2023-01-31": 1050,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -1049,26 +1049,26 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "66.59%",
-    "uptimeWeek": "62.55%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "66.51%",
+    "uptimeWeek": "62.54%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "98.61%",
     "time": 1256,
     "timeDay": 2163,
     "timeWeek": 1289,
     "timeMonth": 1247,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2023-01-31": 371,
+      "2023-01-31": 372,
       "2023-01-30": 540,
       "2023-01-29": 570,
       "2023-01-28": 642,
       "2023-01-27": 459,
       "2023-01-26": 478,
       "2023-01-25": 637,
-      "2023-01-24": 200
+      "2023-01-24": 164
     }
   },
   {
@@ -1076,25 +1076,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "40.38%",
-    "uptimeWeek": "47.77%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "98.10%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "40.45%",
+    "uptimeWeek": "47.95%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "98.11%",
     "time": 707,
-    "timeDay": 960,
+    "timeDay": 977,
     "timeWeek": 697,
     "timeMonth": 688,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-01-31": 699,
+      "2023-01-31": 700,
       "2023-01-30": 843,
       "2023-01-29": 977,
       "2023-01-28": 945,
       "2023-01-27": 764,
       "2023-01-26": 879,
-      "2023-01-25": 154
+      "2023-01-25": 135
     }
   }
 ]
