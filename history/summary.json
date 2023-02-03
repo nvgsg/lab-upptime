@@ -133,7 +133,7 @@
     "timeMonth": 661,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2023-02-03": 808,
+      "2023-02-03": 829,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -398,7 +398,7 @@
     "timeMonth": 660,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2023-02-03": 808,
+      "2023-02-03": 829,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -666,7 +666,7 @@
     "timeMonth": 656,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2023-02-03": 808,
+      "2023-02-03": 830,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1024,7 +1024,7 @@
     "uptimeYear": "98.48%",
     "time": 1548,
     "timeDay": 1456,
-    "timeWeek": 1515,
+    "timeWeek": 1513,
     "timeMonth": 1518,
     "timeYear": 1548,
     "dailyMinutesDown": {
@@ -1067,8 +1067,8 @@
     "uptimeMonth": "91.25%",
     "uptimeYear": "98.64%",
     "time": 1252,
-    "timeDay": 1072,
-    "timeWeek": 1296,
+    "timeDay": 1071,
+    "timeWeek": 1297,
     "timeMonth": 1227,
     "timeYear": 1252,
     "dailyMinutesDown": {
@@ -1087,25 +1087,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "45.10%",
-    "uptimeWeek": "44.34%",
-    "uptimeMonth": "87.19%",
-    "uptimeYear": "98.01%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "45.80%",
+    "uptimeWeek": "44.91%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "98.03%",
     "time": 707,
     "timeDay": 655,
-    "timeWeek": 721,
+    "timeWeek": 722,
     "timeMonth": 692,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-02-03": 471,
+      "2023-02-03": 472,
       "2023-02-02": 784,
       "2023-02-01": 972,
       "2023-01-31": 984,
       "2023-01-30": 843,
       "2023-01-29": 977,
-      "2023-01-28": 579
+      "2023-01-28": 521
     }
   }
 ]
