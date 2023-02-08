@@ -133,7 +133,7 @@
     "timeMonth": 657,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-02-08": 528,
+      "2023-02-08": 538,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -403,7 +403,7 @@
     "timeMonth": 658,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-02-08": 528,
+      "2023-02-08": 538,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -676,7 +676,7 @@
     "timeMonth": 654,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-02-08": 528,
+      "2023-02-08": 538,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -1032,11 +1032,11 @@
     "url": "https://hpc.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/hpc.lab.novaglobal.com.sg.ico",
     "slug": "puffer-ai-hpc-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "92.47%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "98.86%",
     "time": 1547,
     "timeDay": 1467,
@@ -1044,6 +1044,7 @@
     "timeMonth": 1522,
     "timeYear": 1547,
     "dailyMinutesDown": {
+      "2023-02-08": 1,
       "2023-02-07": 100,
       "2023-02-06": 180,
       "2023-02-05": 93,
@@ -1067,7 +1068,7 @@
       "2023-01-18": 73,
       "2023-01-17": 263,
       "2023-01-16": 345,
-      "2023-01-15": 42
+      "2023-01-15": 23
     }
   },
   {
@@ -1077,9 +1078,9 @@
     "slug": "kubeflow-ml-platform",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "82.53%",
-    "uptimeWeek": "69.19%",
-    "uptimeMonth": "91.68%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "69.09%",
+    "uptimeMonth": "91.65%",
     "uptimeYear": "98.73%",
     "time": 1247,
     "timeDay": 1405,
@@ -1087,7 +1088,7 @@
     "timeMonth": 1211,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-02-08": 37,
+      "2023-02-08": 47,
       "2023-02-07": 384,
       "2023-02-06": 439,
       "2023-02-05": 570,
@@ -1105,9 +1106,9 @@
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
     "uptime": "98.24%",
-    "uptimeDay": "52.85%",
-    "uptimeWeek": "49.73%",
-    "uptimeMonth": "88.43%",
+    "uptimeDay": "52.19%",
+    "uptimeWeek": "49.62%",
+    "uptimeMonth": "88.41%",
     "uptimeYear": "98.24%",
     "time": 705,
     "timeDay": 631,
@@ -1115,7 +1116,7 @@
     "timeMonth": 686,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2023-02-08": 236,
+      "2023-02-08": 246,
       "2023-02-07": 638,
       "2023-02-06": 638,
       "2023-02-05": 816,
