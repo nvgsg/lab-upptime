@@ -133,7 +133,7 @@
     "timeMonth": 655,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2023-02-14": 824,
+      "2023-02-14": 834,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -409,7 +409,7 @@
     "timeMonth": 653,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-02-14": 824,
+      "2023-02-14": 834,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -688,7 +688,7 @@
     "timeMonth": 649,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2023-02-14": 824,
+      "2023-02-14": 834,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -1123,25 +1123,25 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "40.86%",
-    "uptimeWeek": "51.69%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "40.78%",
+    "uptimeWeek": "52.27%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "98.38%",
     "time": 702,
-    "timeDay": 662,
+    "timeDay": 659,
     "timeWeek": 651,
     "timeMonth": 681,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-02-14": 559,
+      "2023-02-14": 560,
       "2023-02-13": 865,
       "2023-02-12": 876,
       "2023-02-11": 592,
       "2023-02-10": 730,
       "2023-02-09": 688,
-      "2023-02-08": 558
+      "2023-02-08": 498
     }
   }
 ]
