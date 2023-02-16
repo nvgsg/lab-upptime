@@ -133,7 +133,7 @@
     "timeMonth": 662,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-02-16": 398,
+      "2023-02-16": 419,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -411,7 +411,7 @@
     "timeMonth": 654,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-02-16": 398,
+      "2023-02-16": 419,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -692,7 +692,7 @@
     "timeMonth": 651,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-02-16": 398,
+      "2023-02-16": 419,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -1100,11 +1100,11 @@
     "url": "https://kubeflow.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "75.92%",
-    "uptimeWeek": "69.45%",
-    "uptimeMonth": "91.98%",
+    "uptimeDay": "75.86%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "98.83%",
     "time": 1251,
     "timeDay": 1375,
@@ -1112,7 +1112,7 @@
     "timeMonth": 1219,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2023-02-16": 74,
+      "2023-02-16": 75,
       "2023-02-15": 436,
       "2023-02-14": 515,
       "2023-02-13": 534,
@@ -1121,7 +1121,7 @@
       "2023-02-10": 424,
       "2023-02-09": 352,
       "2023-02-08": 214,
-      "2023-02-07": 157
+      "2023-02-07": 140
     }
   },
   {
@@ -1129,11 +1129,11 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "47.23%",
-    "uptimeWeek": "50.53%",
-    "uptimeMonth": "88.62%",
+    "uptimeDay": "47.21%",
+    "uptimeWeek": "50.71%",
+    "uptimeMonth": "88.66%",
     "uptimeYear": "98.34%",
     "time": 704,
     "timeDay": 985,
@@ -1141,14 +1141,14 @@
     "timeMonth": 691,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2023-02-16": 181,
+      "2023-02-16": 182,
       "2023-02-15": 763,
       "2023-02-14": 905,
       "2023-02-13": 865,
       "2023-02-12": 876,
       "2023-02-11": 592,
       "2023-02-10": 730,
-      "2023-02-09": 72
+      "2023-02-09": 54
     }
   }
 ]
