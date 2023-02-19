@@ -74,11 +74,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.lab.novaglobal.com.sg.ico",
     "slug": "cluster-monitoring-ui",
     "status": "up",
-    "uptime": "89.01%",
+    "uptime": "89.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "89.01%",
+    "uptimeYear": "89.02%",
     "time": 1218,
     "timeDay": 1084,
     "timeWeek": 1111,
@@ -137,7 +137,7 @@
     "timeMonth": 656,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-02-19": 718,
+      "2023-02-19": 754,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 649,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-02-19": 718,
+      "2023-02-19": 754,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 646,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-02-19": 718,
+      "2023-02-19": 754,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -1131,17 +1131,17 @@
     "slug": "kubeflow-ml-platform",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "58.10%",
-    "uptimeWeek": "65.96%",
-    "uptimeMonth": "91.61%",
+    "uptimeDay": "58.76%",
+    "uptimeWeek": "66.31%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "98.79%",
     "time": 1247,
     "timeDay": 1079,
-    "timeWeek": 1226,
+    "timeWeek": 1196,
     "timeMonth": 1198,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-02-19": 268,
+      "2023-02-19": 259,
       "2023-02-18": 454,
       "2023-02-17": 510,
       "2023-02-16": 394,
@@ -1149,7 +1149,7 @@
       "2023-02-14": 515,
       "2023-02-13": 534,
       "2023-02-12": 515,
-      "2023-02-11": 57
+      "2023-02-11": 74
     }
   },
   {
@@ -1157,26 +1157,26 @@
     "url": "https://nvaie.lab.novaglobal.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "23.10%",
-    "uptimeWeek": "43.91%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "98.14%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "23.30%",
+    "uptimeWeek": "44.87%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "98.17%",
     "time": 703,
     "timeDay": 636,
     "timeWeek": 697,
     "timeMonth": 678,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-02-19": 585,
+      "2023-02-19": 586,
       "2023-02-18": 876,
       "2023-02-17": 677,
       "2023-02-16": 781,
       "2023-02-15": 763,
       "2023-02-14": 905,
       "2023-02-13": 865,
-      "2023-02-12": 201
+      "2023-02-12": 102
     }
   }
 ]
