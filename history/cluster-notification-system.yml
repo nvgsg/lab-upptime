@@ -1,7 +1,7 @@
 url: https://alertmanager.lab.novaglobal.com.sg
 status: down
-code: 503
-responseTime: 1021
-lastUpdated: 2024-04-27T23:10:10.280Z
+code: 0
+responseTime: 0
+lastUpdated: 2024-04-28T23:10:57.743Z
 startTime: 2022-07-23T05:32:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
