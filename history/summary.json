@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lab.novaglobal.com.sg.ico",
     "slug": "authentication-system",
     "status": "down",
-    "uptime": "34.72%",
+    "uptime": "34.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.14%",
+    "uptimeMonth": "40.85%",
     "uptimeYear": "14.76%",
-    "time": 1032,
-    "timeDay": 4100,
-    "timeWeek": 3959,
-    "timeMonth": 2049,
-    "timeYear": 1259,
+    "time": 1061,
+    "timeDay": 3901,
+    "timeWeek": 3932,
+    "timeMonth": 2186,
+    "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -325,8 +326,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -335,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.lab.novaglobal.com.sg.ico",
     "slug": "cluster-monitoring-ui",
     "status": "down",
-    "uptime": "28.66%",
+    "uptime": "28.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 931,
-    "timeDay": 796,
-    "timeWeek": 876,
-    "timeMonth": 861,
+    "time": 928,
+    "timeDay": 832,
+    "timeWeek": 849,
+    "timeMonth": 863,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -709,8 +710,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -724,13 +724,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 760,
-    "timeDay": 807,
-    "timeWeek": 898,
-    "timeMonth": 846,
-    "timeYear": 825,
+    "time": 763,
+    "timeDay": 1131,
+    "timeWeek": 945,
+    "timeMonth": 859,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1093,8 +1094,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1103,18 +1103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alertmanager.lab.novaglobal.com.sg.ico",
     "slug": "cluster-notification-system",
     "status": "down",
-    "uptime": "28.66%",
+    "uptime": "28.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 761,
-    "timeDay": 793,
-    "timeWeek": 878,
-    "timeMonth": 838,
-    "timeYear": 819,
+    "time": 762,
+    "timeDay": 831,
+    "timeWeek": 873,
+    "timeMonth": 840,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1477,8 +1478,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1487,18 +1487,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kubesphere.lab.novaglobal.com.sg.ico",
     "slug": "kubernetes-platform",
     "status": "down",
-    "uptime": "7.74%",
+    "uptime": "7.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 761,
-    "timeDay": 778,
-    "timeWeek": 838,
-    "timeMonth": 860,
-    "timeYear": 828,
+    "timeDay": 787,
+    "timeWeek": 839,
+    "timeMonth": 859,
+    "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1861,8 +1862,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1871,18 +1871,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.lab.novaglobal.com.sg.ico",
     "slug": "kubernetes-dashboard",
     "status": "down",
-    "uptime": "28.63%",
+    "uptime": "28.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 789,
-    "timeDay": 1090,
-    "timeWeek": 873,
-    "timeMonth": 831,
-    "timeYear": 866,
+    "timeDay": 820,
+    "timeWeek": 840,
+    "timeMonth": 832,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -2245,8 +2246,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -2255,18 +2255,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/harbor.lab.novaglobal.com.sg.ico",
     "slug": "container-registry",
     "status": "down",
-    "uptime": "36.95%",
+    "uptime": "36.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.14%",
+    "uptimeMonth": "40.86%",
     "uptimeYear": "14.76%",
-    "time": 1006,
-    "timeDay": 4002,
-    "timeWeek": 3983,
-    "timeMonth": 1793,
-    "timeYear": 1213,
+    "time": 1034,
+    "timeDay": 3914,
+    "timeWeek": 3992,
+    "timeMonth": 1902,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -2575,8 +2576,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -2590,13 +2590,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 754,
-    "timeDay": 1038,
-    "timeWeek": 870,
+    "time": 755,
+    "timeDay": 797,
+    "timeWeek": 842,
     "timeMonth": 840,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -2959,8 +2960,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -2969,18 +2969,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lab.novaglobal.com.sg.ico",
     "slug": "documentation-hub",
     "status": "down",
-    "uptime": "28.53%",
+    "uptime": "28.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 779,
-    "timeDay": 793,
-    "timeWeek": 869,
-    "timeMonth": 831,
-    "timeYear": 810,
+    "timeDay": 787,
+    "timeWeek": 836,
+    "timeMonth": 832,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -3343,8 +3344,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -3353,18 +3353,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.lab.novaglobal.com.sg.ico",
     "slug": "lab-catalog",
     "status": "down",
-    "uptime": "27.46%",
+    "uptime": "27.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 782,
-    "timeDay": 810,
-    "timeWeek": 895,
-    "timeMonth": 829,
-    "timeYear": 816,
+    "timeDay": 1091,
+    "timeWeek": 935,
+    "timeMonth": 842,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -3727,8 +3728,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -3737,18 +3737,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hpc.lab.novaglobal.com.sg.ico",
     "slug": "puffer-ai-hpc-portal",
     "status": "down",
-    "uptime": "31.86%",
+    "uptime": "31.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1001,
-    "timeDay": 798,
-    "timeWeek": 863,
-    "timeMonth": 841,
-    "timeYear": 815,
+    "timeDay": 1024,
+    "timeWeek": 895,
+    "timeMonth": 851,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -4111,8 +4112,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -4121,18 +4121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kubeflow.lab.novaglobal.com.sg.ico",
     "slug": "kubeflow-ml-platform",
     "status": "down",
-    "uptime": "40.05%",
+    "uptime": "39.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.15%",
+    "uptimeMonth": "40.86%",
     "uptimeYear": "14.75%",
-    "time": 1791,
-    "timeDay": 4054,
-    "timeWeek": 3896,
-    "timeMonth": 2154,
-    "timeYear": 1955,
+    "time": 1812,
+    "timeDay": 3824,
+    "timeWeek": 3884,
+    "timeMonth": 2234,
+    "timeYear": 1980,
     "dailyMinutesDown": {
-      "2024-05-15": 66,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -4441,8 +4442,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -4451,18 +4451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nvaie.lab.novaglobal.com.sg.ico",
     "slug": "nvidia-ai-enterprise-hub",
     "status": "down",
-    "uptime": "31.55%",
+    "uptime": "31.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 771,
-    "timeDay": 1031,
-    "timeWeek": 863,
-    "timeMonth": 837,
+    "timeDay": 820,
+    "timeWeek": 837,
+    "timeMonth": 840,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-05-15": 67,
+      "2024-05-16": 66,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -4825,8 +4826,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   }
 ]
